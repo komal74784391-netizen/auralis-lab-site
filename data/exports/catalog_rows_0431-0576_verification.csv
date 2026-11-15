@@ -1,0 +1,147 @@
+title,authors,venue,year,theme
+Stave: federated query planning across warehouses,H. Bianchi,NAACL,2019,Data Systems
+Tide: checkpointing for long-running pipelines,Y. Rossi,ICLR,2017,Data Systems
+Alkali: vision-language alignment with noisy pairs,N. Larsen,NAACL,2023,Multimodal Learning
+Brindle: multimodal retrieval of product catalogs,H. Volkov; B. Mbeki,AAAI,2025,Multimodal Learning
+Calyx: audio-visual event localization,E. Haddad; E. Ferrari,ICASSP,2018,Multimodal Learning
+Drift: document understanding with layout priors,H. Ivanova; H. Adeyemi; O. Reyes,ICASSP,2023,Multimodal Learning
+Ember: cross-modal summarization of video,M. Nakamura; C. Kowalski,COLT,2024,Multimodal Learning
+Fathom: image captioning under distribution shift,F. Mensah; H. Klein,EuroSys,2017,Multimodal Learning
+Gossamer: speech-text joint embedding for search,H. Tanaka; Z. Ibrahim,SIGMOD,2023,Multimodal Learning
+Halcyon: table-and-text question answering,L. Haddad; A. Klein; M. Baptiste,KDD,2018,Multimodal Learning
+Ingot: video question answering with temporal grounding,E. Bianchi; T. Oyelaran,ICCV,2017,Multimodal Learning
+Juniper: multimodal toxicity detection,L. Achterberg; A. Oyelaran,ICCV,2026,Multimodal Learning
+Kelvin: OCR-free document classification,N. Jensen,IJCAI,2025,Multimodal Learning
+Larkspur: visual instruction tuning with curated data,C. Tanaka,SIGMOD,2018,Multimodal Learning
+Mosaic: vision-language alignment with noisy pairs,F. Nakamura; D. Vasquez,OSDI,2026,Multimodal Learning
+Nimbus: multimodal retrieval of product catalogs,B. Quintero,ICML,2021,Multimodal Learning
+Onyx: audio-visual event localization,O. Jensen; D. Chowdhury,NAACL,2015,Multimodal Learning
+Pelican: document understanding with layout priors,R. Nyberg; I. Adeyemi; H. Bauer; U. Quintero,NeurIPS,2020,Multimodal Learning
+Quartz: cross-modal summarization of video,Y. Kowalski; I. Mbeki; J. Okafor,CVPR,2018,Multimodal Learning
+Rookery: image captioning under distribution shift,V. Farkas; T. Jensen,OSDI,2021,Multimodal Learning
+Sable: speech-text joint embedding for search,Q. Okafor,TMLR,2017,Multimodal Learning
+Tamarisk: table-and-text question answering,I. Kaur,SIGMOD,2015,Multimodal Learning
+Umber: video question answering with temporal grounding,G. Volkov; Y. Mbeki; S. Haddad,Interspeech,2023,Multimodal Learning
+Verdant: multimodal toxicity detection,H. Mbeki; Q. Dlamini,ICML,2016,Multimodal Learning
+Morrow: A Morphology-Aware Subword Tokenizer,O. Mensah; F. Bianchi; N. Hill,EMNLP 2025,2025,Multimodal Learning
+Xenon: visual instruction tuning with curated data,K. Mbeki; V. Dubois; B. Nyberg,ICCV,2017,Multimodal Learning
+Yarrow: vision-language alignment with noisy pairs,S. Kowalski,NeurIPS,2016,Multimodal Learning
+Zephyr: multimodal retrieval of product catalogs,S. Kaur; T. Jensen; J. Vasquez; U. Rossi,ECCV,2019,Multimodal Learning
+Anchor: audio-visual event localization,F. Nyberg; J. Baptiste; D. Tanaka,SIGMOD,2021,Multimodal Learning
+Basalt: document understanding with layout priors,M. Mensah,SIGMOD,2023,Multimodal Learning
+Cobalt: cross-modal summarization of video,H. Bauer,VLDB,2016,Multimodal Learning
+Dovetail: image captioning under distribution shift,L. Volkov; J. Weiss,NeurIPS,2017,Multimodal Learning
+Elmwood: speech-text joint embedding for search,O. Park; N. Mbeki; Q. Vasquez,KDD,2023,Multimodal Learning
+Ferrite: table-and-text question answering,M. Holm,OSDI,2017,Multimodal Learning
+Granite: video question answering with temporal grounding,V. Achterberg; P. Farkas,OSDI,2018,Multimodal Learning
+Harrow: multimodal toxicity detection,U. Holm; A. Kaur; N. Ivanova; I. Costa,EuroSys,2025,Multimodal Learning
+Iris: OCR-free document classification,B. Quintero; O. Rossi,FAST,2023,Multimodal Learning
+Jasper: visual instruction tuning with curated data,E. Chowdhury; E. Nyberg; D. Volkov,KDD,2026,Multimodal Learning
+Kelp: vision-language alignment with noisy pairs,N. Achterberg; H. Mbeki; P. Dlamini,ACL,2018,Multimodal Learning
+Lattice: multimodal retrieval of product catalogs,N. Jensen,AAAI,2020,Multimodal Learning
+Marrow: audio-visual event localization,F. Park; N. Oyelaran; T. Tanaka,CVPR,2021,Multimodal Learning
+Nacre: document understanding with layout priors,V. Costa; G. Okafor; N. Mensah,NAACL,2017,Multimodal Learning
+Obsidian: cross-modal summarization of video,A. Mbeki; Z. Kowalski,MLSys,2020,Multimodal Learning
+Pivot: image captioning under distribution shift,L. Oyelaran; C. Nyberg; Y. Larsen,COLT,2025,Multimodal Learning
+Quill: speech-text joint embedding for search,Z. Volkov; O. Moreau; E. Quintero,COLT,2018,Multimodal Learning
+Rivet: table-and-text question answering,N. Costa,EMNLP,2024,Multimodal Learning
+Sextant: video question answering with temporal grounding,I. Petrov; P. Vasquez; V. Silva,Interspeech,2021,Multimodal Learning
+Trellis: multimodal toxicity detection,L. Bianchi; H. Weiss,ICML,2015,Multimodal Learning
+Ursa: OCR-free document classification,D. Holm,SOSP,2023,Multimodal Learning
+Vellum: visual instruction tuning with curated data,U. Oyelaran; T. Larsen,ACL,2022,Multimodal Learning
+Wander: vision-language alignment with noisy pairs,N. Ferrari; A. Volkov; Z. Novak,TMLR,2015,Multimodal Learning
+Xylem: multimodal retrieval of product catalogs,C. Silva,ICLR,2018,Multimodal Learning
+Yardarm: audio-visual event localization,S. Ibrahim; L. Holm,ICCV,2021,Multimodal Learning
+Zircon: document understanding with layout priors,P. Adeyemi,EMNLP,2023,Multimodal Learning
+Arbor: cross-modal summarization of video,M. Volkov,SIGIR,2024,Multimodal Learning
+Biscuit: image captioning under distribution shift,J. Rossi; C. Kaur; V. Chowdhury,TPAMI,2022,Multimodal Learning
+Cairn: speech-text joint embedding for search,J. Kowalski; S. Dubois; T. Reyes,USENIX Security,2023,Multimodal Learning
+Dynamo: table-and-text question answering,Z. Sato; U. Volkov; L. Nyberg,FAST,2015,Multimodal Learning
+Etch: video question answering with temporal grounding,E. Holm; Q. Farkas,ICLR,2018,Multimodal Learning
+Fable: multimodal toxicity detection,K. Adeyemi,USENIX Security,2026,Multimodal Learning
+Gale: OCR-free document classification,F. Park; Y. Bauer; Z. Weiss; N. Rossi,KDD,2022,Multimodal Learning
+Hollow: visual instruction tuning with curated data,D. Nakamura; C. Silva; Q. Silva; H. Novak,SIGMOD,2026,Multimodal Learning
+Ivory: vision-language alignment with noisy pairs,S. Petrov,ICASSP,2026,Multimodal Learning
+Jade: multimodal retrieval of product catalogs,A. Farkas; Z. Holm; F. Nakamura,Interspeech,2023,Multimodal Learning
+Kindle: audio-visual event localization,P. Achterberg; L. Baptiste; N. Mbeki; V. Dubois,VLDB,2016,Multimodal Learning
+Lantern: document understanding with layout priors,T. Bianchi; T. Achterberg; Y. Dubois,COLT,2016,Multimodal Learning
+Mesa: cross-modal summarization of video,L. Larsen; B. Nakamura,WWW,2019,Multimodal Learning
+Nook: image captioning under distribution shift,S. Ivanova; R. Ibrahim,WWW,2021,Multimodal Learning
+Oar: speech-text joint embedding for search,Q. Dubois; U. Chowdhury,ICCV,2015,Multimodal Learning
+Pumice: table-and-text question answering,Z. Petrov; N. Oyelaran,NeurIPS,2026,Multimodal Learning
+Quiver: video question answering with temporal grounding,L. Baptiste; M. Jensen; V. Costa,CVPR,2022,Multimodal Learning
+Reef: multimodal toxicity detection,K. Oyelaran; Z. Reyes; H. Mensah,COLT,2025,Multimodal Learning
+Stave: OCR-free document classification,S. Lindqvist,NAACL,2018,Multimodal Learning
+Tide: visual instruction tuning with curated data,B. Reyes; A. Vasquez; E. Kaur,FAST,2022,Multimodal Learning
+Alkali: nonconvex optimization under interpolation conditions,I. Kaur,AISTATS,2021,Optimization Theory
+Brindle: adaptive step sizes for stochastic gradients,I. Rossi; I. Klein; J. Haddad,OSDI,2019,Optimization Theory
+Calyx: distributed optimization with communication budgets,T. Baptiste,SOSP,2021,Optimization Theory
+Drift: implicit regularization of overparameterized models,Q. Jensen; R. Park; T. Nakamura,FAST,2019,Optimization Theory
+Ember: sample complexity of stochastic mirror descent,L. Moreau; Z. Bianchi,SIGMOD,2026,Optimization Theory
+Fathom: acceleration for composite optimization,U. Moreau; I. Bianchi,SIGIR,2022,Optimization Theory
+Gossamer: lower bounds for decentralized consensus,T. Bianchi; C. Rossi,WWW,2020,Optimization Theory
+Halcyon: zeroth-order methods for bandit feedback,J. Kaur,EuroSys,2021,Optimization Theory
+Ingot: saddle-point algorithms with inexact gradients,R. Reyes; O. Ivanova; A. Vasquez,EMNLP,2024,Optimization Theory
+Juniper: pruning-aware optimization landscapes,F. Nyberg; U. Jensen; S. Okafor,FAST,2019,Optimization Theory
+Kelvin: optimization for reinforcement learning under constraints,P. Okafor; P. Reyes,NAACL,2025,Optimization Theory
+Larkspur: randomized sketching in second-order methods,V. Dlamini,OSDI,2016,Optimization Theory
+Mosaic: nonconvex optimization under interpolation conditions,J. Sato; G. Jensen,ICASSP,2019,Optimization Theory
+Nimbus: adaptive step sizes for stochastic gradients,H. Nakamura,WWW,2021,Optimization Theory
+Onyx: distributed optimization with communication budgets,J. Klein; E. Nyberg,AISTATS,2025,Optimization Theory
+Pelican: implicit regularization of overparameterized models,V. Reyes; I. Sato; E. Klein; A. Holm,CVPR,2026,Optimization Theory
+Quartz: sample complexity of stochastic mirror descent,A. Adeyemi; J. Tanaka; M. Novak; K. Chowdhury,ACL,2019,Optimization Theory
+Rookery: acceleration for composite optimization,A. Chowdhury; F. Ibrahim; K. Tanaka; H. Jensen,NAACL,2017,Optimization Theory
+Sable: lower bounds for decentralized consensus,K. Baptiste; B. Haddad; C. Klein; Q. Mensah,COLT,2016,Optimization Theory
+Tamarisk: zeroth-order methods for bandit feedback,V. Achterberg,VLDB,2015,Optimization Theory
+Umber: saddle-point algorithms with inexact gradients,I. Adeyemi; M. Ferrari; S. Dlamini,KDD,2023,Optimization Theory
+Verdant: pruning-aware optimization landscapes,O. Ibrahim; Z. Reyes,CVPR,2015,Optimization Theory
+Willow: optimization for reinforcement learning under constraints,O. Ivanova; H. Ivanova; N. Klein,ICCV,2018,Optimization Theory
+Xenon: randomized sketching in second-order methods,Z. Bianchi,SIGIR,2021,Optimization Theory
+Yarrow: nonconvex optimization under interpolation conditions,S. Kowalski,OSDI,2023,Optimization Theory
+Zephyr: adaptive step sizes for stochastic gradients,Z. Larsen; Y. Sato,NSDI,2019,Optimization Theory
+Anchor: distributed optimization with communication budgets,R. Achterberg; L. Ivanova; D. Lindqvist,TMLR,2026,Optimization Theory
+Basalt: implicit regularization of overparameterized models,S. Lindqvist,ICASSP,2023,Optimization Theory
+Cobalt: sample complexity of stochastic mirror descent,Y. Baptiste,SOSP,2021,Optimization Theory
+Dovetail: acceleration for composite optimization,Z. Quintero; K. Jensen; L. Oyelaran; A. Larsen,Interspeech,2019,Optimization Theory
+Elmwood: lower bounds for decentralized consensus,N. Volkov,TMLR,2024,Optimization Theory
+Ferrite: zeroth-order methods for bandit feedback,T. Nakamura; H. Okafor; T. Klein,SOSP,2026,Optimization Theory
+Granite: saddle-point algorithms with inexact gradients,M. Volkov; E. Rossi; F. Klein,ICLR,2016,Optimization Theory
+Harrow: pruning-aware optimization landscapes,V. Achterberg,TPAMI,2024,Optimization Theory
+Iris: optimization for reinforcement learning under constraints,M. Ivanova; A. Bauer; D. Mensah,TMLR,2022,Optimization Theory
+Jasper: randomized sketching in second-order methods,N. Okafor; U. Mbeki,ECCV,2018,Optimization Theory
+Kelp: nonconvex optimization under interpolation conditions,P. Okafor,COLT,2016,Optimization Theory
+Lattice: adaptive step sizes for stochastic gradients,G. Reyes; Q. Dlamini; U. Nakamura,EuroSys,2026,Optimization Theory
+Marrow: distributed optimization with communication budgets,F. Baptiste; F. Klein; E. Silva,AISTATS,2023,Optimization Theory
+Nacre: implicit regularization of overparameterized models,G. Reyes,ECCV,2021,Optimization Theory
+Obsidian: sample complexity of stochastic mirror descent,G. Achterberg; M. Dubois,NSDI,2026,Optimization Theory
+Pivot: acceleration for composite optimization,Y. Oyelaran; B. Ibrahim; U. Mensah,ICASSP,2020,Optimization Theory
+Quill: lower bounds for decentralized consensus,U. Baptiste; R. Ivanova,ICASSP,2026,Optimization Theory
+Rivet: zeroth-order methods for bandit feedback,P. Weiss; A. Ferrari; A. Ivanova; O. Dlamini,ICASSP,2026,Optimization Theory
+Sextant: saddle-point algorithms with inexact gradients,Z. Tanaka; C. Tanaka; T. Larsen; O. Quintero,MLSys,2019,Optimization Theory
+Trellis: pruning-aware optimization landscapes,F. Lindqvist; Y. Adeyemi; N. Novak,OSDI,2026,Optimization Theory
+Ursa: optimization for reinforcement learning under constraints,I. Ibrahim,OSDI,2018,Optimization Theory
+Vellum: randomized sketching in second-order methods,H. Nyberg; I. Larsen; R. Farkas; B. Lindqvist,NSDI,2024,Optimization Theory
+Wander: nonconvex optimization under interpolation conditions,E. Baptiste; F. Reyes; A. Mbeki; Y. Jensen,ACL,2015,Optimization Theory
+Xylem: adaptive step sizes for stochastic gradients,D. Lindqvist; F. Dubois; S. Kaur,SIGMOD,2019,Optimization Theory
+Yardarm: distributed optimization with communication budgets,F. Costa; L. Larsen; I. Silva,MLSys,2023,Optimization Theory
+Zircon: implicit regularization of overparameterized models,T. Haddad,USENIX Security,2024,Optimization Theory
+Arbor: sample complexity of stochastic mirror descent,P. Larsen; U. Farkas; R. Silva; N. Mbeki,ICASSP,2024,Optimization Theory
+Biscuit: acceleration for composite optimization,H. Ferrari; D. Bauer; H. Lindqvist,Interspeech,2018,Optimization Theory
+Cairn: lower bounds for decentralized consensus,J. Ivanova; A. Lindqvist; Q. Okafor,WWW,2026,Optimization Theory
+Dynamo: zeroth-order methods for bandit feedback,R. Moreau; Z. Bianchi; F. Dubois; Z. Holm,ACL,2024,Optimization Theory
+Etch: saddle-point algorithms with inexact gradients,I. Adeyemi; Z. Dlamini; J. Farkas,FAST,2017,Optimization Theory
+Fable: pruning-aware optimization landscapes,F. Dubois; A. Achterberg; O. Sato,FAST,2024,Optimization Theory
+Gale: optimization for reinforcement learning under constraints,T. Kaur; Q. Achterberg; J. Chowdhury; O. Dlamini,NAACL,2026,Optimization Theory
+Hollow: randomized sketching in second-order methods,E. Larsen; B. Sato,USENIX Security,2021,Optimization Theory
+Ivory: nonconvex optimization under interpolation conditions,R. Oyelaran; I. Mbeki; Z. Holm; U. Adeyemi,AAAI,2025,Optimization Theory
+Jade: adaptive step sizes for stochastic gradients,S. Rossi,VLDB,2016,Optimization Theory
+Kindle: distributed optimization with communication budgets,J. Nyberg; J. Bianchi; U. Reyes; I. Novak,OSDI,2018,Optimization Theory
+Lantern: implicit regularization of overparameterized models,I. Baptiste,NAACL,2023,Optimization Theory
+Mesa: sample complexity of stochastic mirror descent,E. Lindqvist,ICLR,2024,Optimization Theory
+Nook: acceleration for composite optimization,U. Silva; K. Park,ICCV,2017,Optimization Theory
+Oar: lower bounds for decentralized consensus,P. Ibrahim; K. Baptiste; I. Nakamura,TMLR,2025,Optimization Theory
+Pumice: zeroth-order methods for bandit feedback,Q. Adeyemi; L. Chowdhury; M. Moreau,Interspeech,2026,Optimization Theory
+Quiver: saddle-point algorithms with inexact gradients,B. Costa; B. Dlamini,ECCV,2018,Optimization Theory
+Reef: pruning-aware optimization landscapes,K. Reyes; N. Haddad,TMLR,2024,Optimization Theory
+Stave: optimization for reinforcement learning under constraints,B. Dubois; J. Bauer,ICLR,2023,Optimization Theory
+Tide: randomized sketching in second-order methods,R. Costa,MLSys,2026,Optimization Theory

@@ -1,0 +1,161 @@
+title,authors,venue,year,theme
+Quartz: multi-vector indexing for heterogeneous corpora,F. Kaur,SOSP,2017,Retrieval & Ranking
+Rookery: passage compression for retrieval-augmented models,F. Vasquez; J. Quintero; G. Moreau,WWW,2026,Retrieval & Ranking
+Sable: citation-aware ranking of scientific text,M. Adeyemi,OSDI,2022,Retrieval & Ranking
+Tamarisk: recall-oriented retrieval for open QA,Z. Farkas; G. Petrov,NAACL,2023,Retrieval & Ranking
+Umber: entity-centric ranking with knowledge graphs,F. Petrov; C. Chowdhury,ICASSP,2018,Retrieval & Ranking
+Verdant: hard-negative mining for rerankers,T. Farkas; A. Mbeki,NeurIPS,2019,Retrieval & Ranking
+Willow: table retrieval from enterprise documents,U. Dlamini; B. Adeyemi; Q. Ferrari,VLDB,2021,Retrieval & Ranking
+Xenon: conversational retrieval with session context,Z. Holm,NeurIPS,2023,Retrieval & Ranking
+Yarrow: late-interaction retrieval for long documents,Q. Ferrari,EuroSys,2020,Retrieval & Ranking
+Zephyr: cross-encoder reranking with budgeted attention,K. Quintero; D. Ibrahim; Q. Bauer,ICASSP,2021,Retrieval & Ranking
+Anchor: query rewriting for ambiguous intents,O. Ibrahim,FAST,2019,Retrieval & Ranking
+Basalt: dense retrieval under domain shift,O. Achterberg; N. Park; T. Volkov,TPAMI,2022,Retrieval & Ranking
+Cobalt: multi-vector indexing for heterogeneous corpora,D. Baptiste,OSDI,2020,Retrieval & Ranking
+Dovetail: passage compression for retrieval-augmented models,T. Okafor; B. Ibrahim; D. Mensah,ICCV,2017,Retrieval & Ranking
+Elmwood: citation-aware ranking of scientific text,C. Dubois; E. Novak; S. Mbeki,TMLR,2017,Retrieval & Ranking
+Ferrite: recall-oriented retrieval for open QA,T. Weiss; Z. Silva; R. Kaur,NAACL,2019,Retrieval & Ranking
+Granite: entity-centric ranking with knowledge graphs,V. Adeyemi; E. Ibrahim,SIGMOD,2020,Retrieval & Ranking
+Harrow: hard-negative mining for rerankers,R. Lindqvist; P. Achterberg; J. Dlamini; J. Farkas,ICML,2015,Retrieval & Ranking
+Iris: table retrieval from enterprise documents,F. Reyes,ICASSP,2021,Retrieval & Ranking
+Jasper: conversational retrieval with session context,F. Kaur,CVPR,2019,Retrieval & Ranking
+Kelp: late-interaction retrieval for long documents,V. Nyberg; U. Kaur,USENIX Security,2019,Retrieval & Ranking
+Lattice: cross-encoder reranking with budgeted attention,R. Haddad; B. Costa,TPAMI,2021,Retrieval & Ranking
+Marrow: query rewriting for ambiguous intents,H. Costa,EMNLP,2015,Retrieval & Ranking
+Nacre: dense retrieval under domain shift,D. Park,TPAMI,2015,Retrieval & Ranking
+Obsidian: multi-vector indexing for heterogeneous corpora,D. Farkas,VLDB,2017,Retrieval & Ranking
+Pivot: passage compression for retrieval-augmented models,E. Chowdhury,USENIX Security,2024,Retrieval & Ranking
+Quill: citation-aware ranking of scientific text,J. Klein,ICASSP,2026,Retrieval & Ranking
+Rivet: recall-oriented retrieval for open QA,P. Mbeki; Q. Farkas; F. Sato; J. Larsen,SIGMOD,2015,Retrieval & Ranking
+Sextant: entity-centric ranking with knowledge graphs,G. Kowalski; A. Baptiste,NeurIPS,2016,Retrieval & Ranking
+Trellis: hard-negative mining for rerankers,N. Park,WWW,2022,Retrieval & Ranking
+Ursa: table retrieval from enterprise documents,E. Chowdhury; E. Larsen; H. Rossi; I. Nyberg,ACL,2024,Retrieval & Ranking
+Vellum: conversational retrieval with session context,C. Baptiste; L. Chowdhury; M. Kaur,TMLR,2017,Retrieval & Ranking
+Wander: late-interaction retrieval for long documents,U. Silva; H. Larsen,ACL,2021,Retrieval & Ranking
+Xylem: cross-encoder reranking with budgeted attention,R. Oyelaran,SIGIR,2025,Retrieval & Ranking
+Yardarm: query rewriting for ambiguous intents,Y. Bianchi; B. Nyberg,TPAMI,2018,Retrieval & Ranking
+Zircon: dense retrieval under domain shift,U. Chowdhury; G. Oyelaran,COLT,2020,Retrieval & Ranking
+Arbor: multi-vector indexing for heterogeneous corpora,I. Costa,WWW,2024,Retrieval & Ranking
+Biscuit: passage compression for retrieval-augmented models,C. Novak; Y. Novak,MLSys,2015,Retrieval & Ranking
+Cairn: citation-aware ranking of scientific text,Z. Park; U. Volkov,AISTATS,2024,Retrieval & Ranking
+Quillfeather: Efficient Cross-Encoder Reranking,D. Moreau; K. Sato; N. Hill,CoNLL 2025,2025,Retrieval & Ranking
+Etch: entity-centric ranking with knowledge graphs,O. Costa; Z. Nyberg,ACL,2018,Retrieval & Ranking
+Fable: hard-negative mining for rerankers,I. Ibrahim,ICCV,2021,Retrieval & Ranking
+Gale: table retrieval from enterprise documents,R. Weiss,ECCV,2025,Retrieval & Ranking
+Hollow: conversational retrieval with session context,Q. Holm,NSDI,2017,Retrieval & Ranking
+Ivory: late-interaction retrieval for long documents,S. Adeyemi; F. Mbeki; E. Nakamura,SOSP,2015,Retrieval & Ranking
+Jade: cross-encoder reranking with budgeted attention,Q. Bianchi; H. Costa; P. Bauer,EMNLP,2019,Retrieval & Ranking
+Kindle: query rewriting for ambiguous intents,L. Silva; H. Novak,AAAI,2023,Retrieval & Ranking
+Lantern: dense retrieval under domain shift,J. Tanaka; E. Lindqvist; K. Jensen,EuroSys,2019,Retrieval & Ranking
+Mesa: multi-vector indexing for heterogeneous corpora,S. Silva; H. Haddad; Z. Mbeki; M. Volkov,ICCV,2024,Retrieval & Ranking
+Nook: passage compression for retrieval-augmented models,C. Novak; F. Oyelaran,KDD,2015,Retrieval & Ranking
+Oar: citation-aware ranking of scientific text,M. Sato,ECCV,2025,Retrieval & Ranking
+Pumice: recall-oriented retrieval for open QA,R. Oyelaran; D. Weiss; A. Reyes; B. Okafor,NeurIPS,2018,Retrieval & Ranking
+Quiver: entity-centric ranking with knowledge graphs,I. Ferrari; A. Oyelaran,ICML,2023,Retrieval & Ranking
+Reef: hard-negative mining for rerankers,Z. Larsen; Q. Volkov; F. Vasquez; Z. Petrov,ECCV,2016,Retrieval & Ranking
+Stave: table retrieval from enterprise documents,Z. Mensah,NeurIPS,2017,Retrieval & Ranking
+Tide: conversational retrieval with session context,A. Ferrari; Z. Quintero; K. Sato,KDD,2016,Retrieval & Ranking
+Alkali: membership inference under distribution shift,Q. Ibrahim; C. Mbeki,Interspeech,2025,Trustworthy ML
+Brindle: certified robustness for text classifiers,V. Park,KDD,2025,Trustworthy ML
+Calyx: data provenance auditing for large corpora,A. Oyelaran; L. Baptiste; R. Moreau; B. Volkov,AAAI,2023,Trustworthy ML
+Drift: unlearning in parametric models,H. Sato; V. Larsen,NeurIPS,2017,Trustworthy ML
+Ember: safety filters for streaming generation,Q. Silva; L. Lindqvist; L. Achterberg,COLT,2019,Trustworthy ML
+Fathom: fairness auditing of ranking systems,G. Chowdhury; D. Quintero,IJCAI,2026,Trustworthy ML
+Gossamer: privacy-preserving evaluation of language models,Z. Bianchi; K. Silva; J. Mbeki,AAAI,2015,Trustworthy ML
+Halcyon: watermarking of generated text,R. Volkov; E. Weiss,ICCV,2020,Trustworthy ML
+Ingot: red-teaming pipelines for dialogue agents,I. Klein; I. Okafor; H. Klein,Interspeech,2019,Trustworthy ML
+Juniper: uncertainty calibration for abstention,B. Ferrari; S. Okafor; C. Bauer,TPAMI,2024,Trustworthy ML
+Kelvin: backdoor detection in pretrained encoders,K. Okafor,CVPR,2021,Trustworthy ML
+Larkspur: differential privacy for retrieval indexes,C. Novak,Interspeech,2017,Trustworthy ML
+Mosaic: membership inference under distribution shift,S. Kaur; N. Holm; Y. Adeyemi; Q. Bianchi,IJCAI,2017,Trustworthy ML
+Nimbus: certified robustness for text classifiers,N. Rossi; N. Kaur,FAST,2018,Trustworthy ML
+Onyx: data provenance auditing for large corpora,M. Chowdhury,VLDB,2018,Trustworthy ML
+Pelican: unlearning in parametric models,Y. Petrov; T. Rossi,COLT,2021,Trustworthy ML
+Quartz: safety filters for streaming generation,C. Vasquez,NAACL,2016,Trustworthy ML
+Rookery: fairness auditing of ranking systems,K. Nyberg; Q. Ivanova,ACL,2018,Trustworthy ML
+Sable: privacy-preserving evaluation of language models,O. Novak; I. Vasquez,WWW,2025,Trustworthy ML
+Tamarisk: watermarking of generated text,G. Kowalski; R. Okafor; Z. Ivanova; J. Moreau,NeurIPS,2020,Trustworthy ML
+Umber: red-teaming pipelines for dialogue agents,T. Bianchi,SIGMOD,2020,Trustworthy ML
+Verdant: uncertainty calibration for abstention,R. Ivanova,EuroSys,2022,Trustworthy ML
+Willow: backdoor detection in pretrained encoders,K. Park; D. Petrov; U. Tanaka; A. Weiss,ECCV,2025,Trustworthy ML
+Cinder: Auditing Training Data Provenance at Scale,R. Farkas; H. Dlamini; N. Hill,IEEE S&P 2025,2025,Trustworthy ML
+Yarrow: membership inference under distribution shift,A. Sato,KDD,2026,Trustworthy ML
+Zephyr: certified robustness for text classifiers,F. Oyelaran; S. Mensah,FAST,2017,Trustworthy ML
+Anchor: data provenance auditing for large corpora,H. Klein,Interspeech,2019,Trustworthy ML
+Basalt: unlearning in parametric models,I. Ibrahim; G. Okafor; F. Bauer; F. Costa,EMNLP,2023,Trustworthy ML
+Cobalt: safety filters for streaming generation,R. Oyelaran; A. Reyes; C. Weiss,NSDI,2019,Trustworthy ML
+Dovetail: fairness auditing of ranking systems,D. Baptiste,EMNLP,2019,Trustworthy ML
+Elmwood: privacy-preserving evaluation of language models,U. Jensen; C. Baptiste,IEEE S&P,2019,Trustworthy ML
+Ferrite: watermarking of generated text,I. Novak; U. Bianchi; I. Kowalski; E. Mensah,OSDI,2026,Trustworthy ML
+Granite: red-teaming pipelines for dialogue agents,M. Ibrahim,SIGMOD,2018,Trustworthy ML
+Harrow: uncertainty calibration for abstention,I. Mbeki; U. Novak,VLDB,2024,Trustworthy ML
+Iris: backdoor detection in pretrained encoders,L. Achterberg,NAACL,2024,Trustworthy ML
+Jasper: differential privacy for retrieval indexes,V. Sato; V. Nyberg; F. Costa; B. Tanaka,TMLR,2017,Trustworthy ML
+Kelp: membership inference under distribution shift,J. Quintero,TMLR,2017,Trustworthy ML
+Lattice: certified robustness for text classifiers,B. Achterberg; Q. Reyes; H. Okafor,SIGIR,2024,Trustworthy ML
+Marrow: data provenance auditing for large corpora,U. Holm; Q. Vasquez,KDD,2016,Trustworthy ML
+Nacre: unlearning in parametric models,J. Vasquez; S. Bianchi; K. Nyberg; E. Bauer,ACL,2018,Trustworthy ML
+Obsidian: safety filters for streaming generation,M. Rossi,FAST,2023,Trustworthy ML
+Pivot: fairness auditing of ranking systems,T. Novak,SIGIR,2026,Trustworthy ML
+Quill: privacy-preserving evaluation of language models,Q. Mbeki; V. Reyes; P. Okafor,NAACL,2026,Trustworthy ML
+Rivet: watermarking of generated text,Q. Vasquez; K. Tanaka,VLDB,2019,Trustworthy ML
+Sextant: red-teaming pipelines for dialogue agents,S. Ferrari; P. Sato,MLSys,2025,Trustworthy ML
+Trellis: uncertainty calibration for abstention,U. Tanaka,ICCV,2019,Trustworthy ML
+Ursa: backdoor detection in pretrained encoders,T. Ferrari; F. Ferrari,TMLR,2020,Trustworthy ML
+Vellum: differential privacy for retrieval indexes,F. Rossi; N. Okafor; F. Chowdhury; F. Nyberg,EuroSys,2021,Trustworthy ML
+Wander: membership inference under distribution shift,S. Bianchi; K. Reyes,KDD,2018,Trustworthy ML
+Xylem: certified robustness for text classifiers,K. Oyelaran,ICASSP,2019,Trustworthy ML
+Yardarm: data provenance auditing for large corpora,B. Kaur; D. Okafor; O. Adeyemi,NSDI,2022,Trustworthy ML
+Zircon: unlearning in parametric models,E. Ferrari; F. Nakamura; Q. Quintero; L. Mbeki,AISTATS,2016,Trustworthy ML
+Arbor: safety filters for streaming generation,A. Costa,ICLR,2021,Trustworthy ML
+Lumen: Safety Filters for Streaming Generation,V. Quintero; I. Rossi,SaTML 2026,2026,Trustworthy ML
+Cairn: privacy-preserving evaluation of language models,F. Park,MLSys,2015,Trustworthy ML
+Dynamo: watermarking of generated text,Q. Haddad; K. Bianchi,KDD,2024,Trustworthy ML
+Etch: red-teaming pipelines for dialogue agents,R. Mbeki; N. Nyberg; Y. Haddad,ICCV,2017,Trustworthy ML
+Fable: uncertainty calibration for abstention,S. Mensah; E. Petrov; R. Kowalski,TPAMI,2016,Trustworthy ML
+Gale: backdoor detection in pretrained encoders,A. Quintero; J. Reyes; V. Kowalski,EuroSys,2024,Trustworthy ML
+Hollow: differential privacy for retrieval indexes,H. Nakamura; P. Baptiste; J. Volkov; A. Larsen,MLSys,2026,Trustworthy ML
+Ivory: membership inference under distribution shift,T. Chowdhury; R. Baptiste; P. Weiss,IEEE S&P,2016,Trustworthy ML
+Jade: certified robustness for text classifiers,Q. Dlamini; O. Kaur,EuroSys,2026,Trustworthy ML
+Kindle: data provenance auditing for large corpora,M. Adeyemi; N. Adeyemi; J. Moreau; Y. Larsen,EuroSys,2021,Trustworthy ML
+Lantern: unlearning in parametric models,A. Oyelaran; K. Volkov; K. Mensah,ICLR,2021,Trustworthy ML
+Mesa: safety filters for streaming generation,C. Bianchi; R. Dubois; M. Costa,Interspeech,2016,Trustworthy ML
+Nook: fairness auditing of ranking systems,T. Sato,IJCAI,2020,Trustworthy ML
+Oar: privacy-preserving evaluation of language models,Y. Baptiste,FAST,2018,Trustworthy ML
+Pumice: watermarking of generated text,N. Lindqvist; F. Silva,ACL,2021,Trustworthy ML
+Quiver: red-teaming pipelines for dialogue agents,U. Klein,NSDI,2021,Trustworthy ML
+Reef: uncertainty calibration for abstention,K. Mbeki,IEEE S&P,2023,Trustworthy ML
+Stave: backdoor detection in pretrained encoders,O. Novak; V. Nakamura; U. Holm,IJCAI,2015,Trustworthy ML
+Tide: differential privacy for retrieval indexes,C. Sato; P. Ibrahim; V. Jensen; V. Ivanova,IEEE S&P,2016,Trustworthy ML
+Alkali: heterogeneous graph transformers at scale,L. Adeyemi,ICASSP,2021,Graph Learning
+Brindle: temporal link prediction in citation graphs,N. Weiss,Interspeech,2023,Graph Learning
+Calyx: subgraph retrieval for question answering,B. Park,NeurIPS,2019,Graph Learning
+Drift: message passing with adaptive depth,P. Rossi,NSDI,2016,Graph Learning
+Ember: graph condensation for large networks,F. Nyberg; Z. Kowalski; A. Kowalski,MLSys,2025,Graph Learning
+Fathom: link-level fairness in social graphs,L. Klein; P. Holm,ICML,2025,Graph Learning
+Gossamer: dynamic graph embeddings for fraud detection,D. Klein; J. Dubois,AISTATS,2023,Graph Learning
+Halcyon: hypergraph learning for drug discovery,U. Bianchi; L. Rossi; S. Petrov,EMNLP,2021,Graph Learning
+Ingot: knowledge-graph completion with type constraints,B. Petrov; E. Mensah; P. Silva; B. Mensah,WWW,2020,Graph Learning
+Juniper: sampling strategies for graph contrastive learning,B. Bauer; Z. Okafor,SOSP,2024,Graph Learning
+Kelvin: graph-aware retrieval of structured records,G. Klein; E. Rossi; I. Volkov; D. Nakamura,Interspeech,2019,Graph Learning
+Larkspur: spectral clustering on billion-edge graphs,Z. Klein; O. Haddad; J. Larsen,EuroSys,2020,Graph Learning
+Mosaic: heterogeneous graph transformers at scale,J. Jensen,ICML,2025,Graph Learning
+Nimbus: temporal link prediction in citation graphs,P. Okafor,USENIX Security,2018,Graph Learning
+Onyx: subgraph retrieval for question answering,G. Oyelaran; C. Volkov; I. Ibrahim,IJCAI,2019,Graph Learning
+Pelican: message passing with adaptive depth,F. Ferrari,ICML,2025,Graph Learning
+Quartz: graph condensation for large networks,P. Sato,TPAMI,2019,Graph Learning
+Rookery: link-level fairness in social graphs,F. Mbeki; E. Kowalski; B. Dubois,MLSys,2026,Graph Learning
+Sable: dynamic graph embeddings for fraud detection,Q. Moreau; H. Jensen; Z. Dlamini; N. Achterberg,ICML,2021,Graph Learning
+Tamarisk: hypergraph learning for drug discovery,Q. Reyes,ACL,2020,Graph Learning
+Umber: knowledge-graph completion with type constraints,Z. Petrov,TPAMI,2020,Graph Learning
+Tessellate: Graph-Aware Retrieval for Structured Corpora,P. Costa; G. Reyes,WWW 2026,2026,Graph Learning
+Willow: graph-aware retrieval of structured records,K. Holm; J. Quintero; Y. Kowalski,IEEE S&P,2018,Graph Learning
+Xenon: spectral clustering on billion-edge graphs,A. Okafor; F. Okafor,ICLR,2016,Graph Learning
+Yarrow: heterogeneous graph transformers at scale,L. Bauer; Z. Larsen,IJCAI,2017,Graph Learning
+Zephyr: temporal link prediction in citation graphs,S. Larsen; Y. Volkov; J. Park,EMNLP,2016,Graph Learning
+Anchor: subgraph retrieval for question answering,Z. Vasquez,OSDI,2016,Graph Learning
+Basalt: message passing with adaptive depth,B. Weiss; A. Dlamini,IEEE S&P,2025,Graph Learning
+Cobalt: graph condensation for large networks,Y. Quintero; N. Okafor; R. Ivanova,COLT,2015,Graph Learning
+Dovetail: link-level fairness in social graphs,L. Ibrahim; E. Ferrari; G. Dlamini,VLDB,2025,Graph Learning
+Elmwood: dynamic graph embeddings for fraud detection,Y. Vasquez; L. Chowdhury,ICML,2024,Graph Learning
+Ferrite: hypergraph learning for drug discovery,Y. Lindqvist,FAST,2026,Graph Learning

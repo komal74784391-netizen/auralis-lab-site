@@ -1,0 +1,161 @@
+title,authors,venue,year,theme
+Granite: knowledge-graph completion with type constraints,U. Holm,COLT,2026,Graph Learning
+Harrow: sampling strategies for graph contrastive learning,U. Oyelaran; O. Larsen; P. Costa; S. Farkas,NSDI,2025,Graph Learning
+Iris: graph-aware retrieval of structured records,A. Vasquez; V. Baptiste; U. Vasquez,AISTATS,2025,Graph Learning
+Jasper: spectral clustering on billion-edge graphs,N. Moreau; K. Costa; P. Vasquez,AAAI,2021,Graph Learning
+Kelp: heterogeneous graph transformers at scale,N. Adeyemi; J. Park; Q. Kaur; E. Nakamura,FAST,2026,Graph Learning
+Lattice: temporal link prediction in citation graphs,M. Haddad; I. Okafor; R. Okafor,SOSP,2017,Graph Learning
+Marrow: subgraph retrieval for question answering,T. Dubois; A. Ferrari,EuroSys,2017,Graph Learning
+Nacre: message passing with adaptive depth,C. Ivanova,COLT,2021,Graph Learning
+Obsidian: graph condensation for large networks,A. Park; H. Jensen,ECCV,2026,Graph Learning
+Pivot: link-level fairness in social graphs,Z. Klein; E. Okafor,NSDI,2021,Graph Learning
+Quill: dynamic graph embeddings for fraud detection,A. Chowdhury; N. Silva; L. Ferrari; R. Larsen,SIGIR,2016,Graph Learning
+Rivet: hypergraph learning for drug discovery,N. Moreau; G. Ivanova; I. Kowalski,SOSP,2021,Graph Learning
+Sextant: knowledge-graph completion with type constraints,T. Achterberg; U. Park,ECCV,2021,Graph Learning
+Trellis: sampling strategies for graph contrastive learning,Q. Moreau; V. Dlamini; O. Haddad,ACL,2025,Graph Learning
+Ursa: graph-aware retrieval of structured records,V. Quintero,EuroSys,2022,Graph Learning
+Vellum: spectral clustering on billion-edge graphs,H. Costa; J. Quintero; N. Haddad; O. Reyes,NAACL,2021,Graph Learning
+Wander: heterogeneous graph transformers at scale,N. Tanaka; Z. Silva,USENIX Security,2019,Graph Learning
+Xylem: temporal link prediction in citation graphs,O. Haddad,AAAI,2015,Graph Learning
+Yardarm: subgraph retrieval for question answering,C. Adeyemi,USENIX Security,2016,Graph Learning
+Zircon: message passing with adaptive depth,R. Vasquez; M. Holm; K. Farkas,ICCV,2017,Graph Learning
+Arbor: graph condensation for large networks,T. Sato; C. Bianchi; M. Nyberg,IEEE S&P,2024,Graph Learning
+Biscuit: link-level fairness in social graphs,D. Kowalski,MLSys,2024,Graph Learning
+Cairn: dynamic graph embeddings for fraud detection,M. Quintero; Y. Chowdhury; O. Silva,ICLR,2026,Graph Learning
+Dynamo: hypergraph learning for drug discovery,T. Vasquez; D. Vasquez,OSDI,2021,Graph Learning
+Etch: knowledge-graph completion with type constraints,L. Farkas; O. Volkov,MLSys,2021,Graph Learning
+Fable: sampling strategies for graph contrastive learning,Y. Park; B. Kowalski,CVPR,2019,Graph Learning
+Gale: graph-aware retrieval of structured records,V. Vasquez; D. Volkov; T. Lindqvist,ICML,2016,Graph Learning
+Hollow: spectral clustering on billion-edge graphs,N. Weiss; H. Holm,NSDI,2021,Graph Learning
+Ivory: heterogeneous graph transformers at scale,U. Haddad; V. Vasquez; N. Nakamura; G. Farkas,USENIX Security,2025,Graph Learning
+Jade: temporal link prediction in citation graphs,F. Reyes,AAAI,2017,Graph Learning
+Kindle: subgraph retrieval for question answering,J. Ivanova; H. Bianchi; F. Ferrari,FAST,2025,Graph Learning
+Lantern: message passing with adaptive depth,D. Mbeki; Z. Ferrari; E. Okafor,AAAI,2015,Graph Learning
+Mesa: graph condensation for large networks,K. Kowalski; U. Rossi,TMLR,2026,Graph Learning
+Nook: link-level fairness in social graphs,U. Achterberg; K. Lindqvist,FAST,2016,Graph Learning
+Oar: dynamic graph embeddings for fraud detection,T. Bianchi,SOSP,2023,Graph Learning
+Pumice: hypergraph learning for drug discovery,V. Mensah,MLSys,2017,Graph Learning
+Quiver: knowledge-graph completion with type constraints,Q. Achterberg; D. Ferrari,NSDI,2015,Graph Learning
+Reef: sampling strategies for graph contrastive learning,Z. Nyberg,OSDI,2020,Graph Learning
+Stave: graph-aware retrieval of structured records,I. Jensen; F. Ivanova,EuroSys,2015,Graph Learning
+Tide: spectral clustering on billion-edge graphs,R. Klein; P. Achterberg; M. Moreau,SIGIR,2025,Graph Learning
+Alkali: prefetch scheduling for tiered storage,Q. Nyberg; K. Adeyemi,ICCV,2024,Data Systems
+Brindle: query optimization over data lakes,C. Dubois; M. Lindqvist; J. Sato,NeurIPS,2021,Data Systems
+Calyx: adaptive indexing for mixed workloads,I. Achterberg; U. Haddad,WWW,2020,Data Systems
+Drift: streaming ingestion with exactly-once semantics,G. Nyberg,WWW,2023,Data Systems
+Ember: columnar compression for sparse features,O. Park; Y. Mbeki,IJCAI,2021,Data Systems
+Fathom: caching for interactive analytics,R. Petrov; M. Haddad,EuroSys,2018,Data Systems
+Gossamer: workload-aware data placement,B. Park; M. Vasquez; G. Costa; D. Dubois,AISTATS,2023,Data Systems
+Halcyon: transactional guarantees for vector stores,E. Kowalski,SIGMOD,2019,Data Systems
+Ingot: resource isolation in multi-tenant clusters,J. Ferrari; O. Vasquez,FAST,2016,Data Systems
+Juniper: lineage tracking for derived tables,C. Petrov,FAST,2016,Data Systems
+Kelvin: federated query planning across warehouses,B. Nyberg; Q. Dubois,SOSP,2015,Data Systems
+Larkspur: checkpointing for long-running pipelines,Q. Kaur,OSDI,2025,Data Systems
+Mosaic: prefetch scheduling for tiered storage,Y. Ivanova,SIGIR,2019,Data Systems
+Nimbus: query optimization over data lakes,B. Chowdhury,IEEE S&P,2021,Data Systems
+Onyx: adaptive indexing for mixed workloads,F. Moreau; T. Dlamini; G. Ivanova,VLDB,2023,Data Systems
+Pelican: streaming ingestion with exactly-once semantics,Z. Costa; V. Mbeki,VLDB,2024,Data Systems
+Quartz: columnar compression for sparse features,U. Klein; M. Adeyemi,ICLR,2023,Data Systems
+Rookery: caching for interactive analytics,M. Weiss; T. Chowdhury; C. Moreau,FAST,2015,Data Systems
+Sable: workload-aware data placement,M. Tanaka; J. Costa,IEEE S&P,2018,Data Systems
+Tamarisk: transactional guarantees for vector stores,O. Farkas,USENIX Security,2015,Data Systems
+Umber: resource isolation in multi-tenant clusters,G. Novak; B. Quintero; O. Lindqvist,Interspeech,2015,Data Systems
+Verdant: lineage tracking for derived tables,O. Haddad; V. Reyes; H. Rossi,ICML,2021,Data Systems
+Willow: federated query planning across warehouses,D. Ivanova; Q. Petrov; R. Dubois,ICML,2024,Data Systems
+Xenon: checkpointing for long-running pipelines,T. Nakamura; R. Nakamura,NAACL,2022,Data Systems
+Yarrow: prefetch scheduling for tiered storage,G. Lindqvist; P. Klein; U. Volkov; C. Kowalski,Interspeech,2021,Data Systems
+Zephyr: query optimization over data lakes,F. Mensah; C. Mbeki; Y. Quintero,NAACL,2018,Data Systems
+Anchor: adaptive indexing for mixed workloads,N. Ferrari,CVPR,2026,Data Systems
+Basalt: streaming ingestion with exactly-once semantics,S. Baptiste; P. Park,ICCV,2025,Data Systems
+Cobalt: columnar compression for sparse features,C. Kowalski; U. Klein,TMLR,2024,Data Systems
+Dovetail: caching for interactive analytics,V. Larsen,AAAI,2023,Data Systems
+Elmwood: workload-aware data placement,K. Klein; P. Vasquez; U. Nakamura; N. Klein,AAAI,2026,Data Systems
+Ferrite: transactional guarantees for vector stores,F. Okafor,ICLR,2020,Data Systems
+Granite: resource isolation in multi-tenant clusters,F. Rossi,FAST,2016,Data Systems
+Harrow: lineage tracking for derived tables,L. Novak,SIGMOD,2024,Data Systems
+Iris: federated query planning across warehouses,A. Ferrari,VLDB,2019,Data Systems
+Jasper: checkpointing for long-running pipelines,L. Kaur; L. Park; L. Reyes,ACL,2021,Data Systems
+Kelp: prefetch scheduling for tiered storage,R. Reyes; R. Novak,MLSys,2020,Data Systems
+Lattice: query optimization over data lakes,V. Moreau,Interspeech,2024,Data Systems
+Marrow: adaptive indexing for mixed workloads,A. Jensen; K. Nakamura,USENIX Security,2019,Data Systems
+Orchard: Prefetch Scheduling for Tiered Storage,C. Nyberg; Y. Ibrahim,FAST 2026,2026,Data Systems
+Obsidian: columnar compression for sparse features,I. Kaur; J. Nakamura,ICML,2015,Data Systems
+Pivot: caching for interactive analytics,C. Kaur; B. Klein; S. Lindqvist; L. Lindqvist,ECCV,2015,Data Systems
+Quill: workload-aware data placement,L. Vasquez; M. Larsen,SIGMOD,2024,Data Systems
+Rivet: transactional guarantees for vector stores,C. Silva,EMNLP,2018,Data Systems
+Sextant: resource isolation in multi-tenant clusters,Y. Costa; K. Quintero,NSDI,2015,Data Systems
+Trellis: lineage tracking for derived tables,F. Larsen; J. Jensen; A. Nyberg,Interspeech,2021,Data Systems
+Ursa: federated query planning across warehouses,D. Ivanova; Q. Jensen; A. Ferrari,WWW,2025,Data Systems
+Vellum: checkpointing for long-running pipelines,P. Farkas; E. Petrov,NeurIPS,2026,Data Systems
+Wander: prefetch scheduling for tiered storage,R. Klein; Y. Dlamini,SOSP,2016,Data Systems
+Xylem: query optimization over data lakes,O. Reyes; L. Klein,VLDB,2026,Data Systems
+Yardarm: adaptive indexing for mixed workloads,S. Baptiste; B. Holm; M. Baptiste,ACL,2023,Data Systems
+Zircon: streaming ingestion with exactly-once semantics,J. Tanaka,TPAMI,2018,Data Systems
+Arbor: columnar compression for sparse features,G. Quintero,SIGMOD,2025,Data Systems
+Biscuit: caching for interactive analytics,I. Moreau; Q. Oyelaran,NSDI,2020,Data Systems
+Cairn: workload-aware data placement,Z. Mensah; N. Holm,EuroSys,2019,Data Systems
+Dynamo: transactional guarantees for vector stores,K. Nyberg; Y. Kaur; E. Rossi; Q. Okafor,TMLR,2025,Data Systems
+Etch: resource isolation in multi-tenant clusters,N. Jensen,AAAI,2021,Data Systems
+Fable: lineage tracking for derived tables,C. Okafor,ACL,2024,Data Systems
+Gale: federated query planning across warehouses,K. Oyelaran; L. Quintero,WWW,2023,Data Systems
+Hollow: checkpointing for long-running pipelines,K. Mbeki; G. Costa,ACL,2015,Data Systems
+Ivory: prefetch scheduling for tiered storage,P. Jensen; P. Nyberg; B. Mbeki; R. Okafor,SOSP,2016,Data Systems
+Jade: query optimization over data lakes,Y. Moreau; G. Ivanova; V. Petrov,MLSys,2022,Data Systems
+Kindle: adaptive indexing for mixed workloads,J. Moreau; Y. Vasquez,OSDI,2025,Data Systems
+Lantern: streaming ingestion with exactly-once semantics,R. Quintero; K. Sato,NeurIPS,2025,Data Systems
+Mesa: columnar compression for sparse features,O. Lindqvist; D. Costa,EuroSys,2022,Data Systems
+Nook: caching for interactive analytics,U. Sato; H. Costa,ACL,2020,Data Systems
+Oar: workload-aware data placement,M. Volkov; T. Moreau; Z. Lindqvist; I. Holm,USENIX Security,2015,Data Systems
+Pumice: transactional guarantees for vector stores,V. Rossi,IEEE S&P,2021,Data Systems
+Quiver: resource isolation in multi-tenant clusters,D. Rossi,AAAI,2024,Data Systems
+Reef: lineage tracking for derived tables,K. Volkov; N. Reyes,ICASSP,2026,Data Systems
+Stave: federated query planning across warehouses,H. Bianchi,NAACL,2019,Data Systems
+Tide: checkpointing for long-running pipelines,Y. Rossi,ICLR,2017,Data Systems
+Alkali: vision-language alignment with noisy pairs,N. Larsen,NAACL,2023,Multimodal Learning
+Brindle: multimodal retrieval of product catalogs,H. Volkov; B. Mbeki,AAAI,2025,Multimodal Learning
+Calyx: audio-visual event localization,E. Haddad; E. Ferrari,ICASSP,2018,Multimodal Learning
+Drift: document understanding with layout priors,H. Ivanova; H. Adeyemi; O. Reyes,ICASSP,2023,Multimodal Learning
+Ember: cross-modal summarization of video,M. Nakamura; C. Kowalski,COLT,2024,Multimodal Learning
+Fathom: image captioning under distribution shift,F. Mensah; H. Klein,EuroSys,2017,Multimodal Learning
+Gossamer: speech-text joint embedding for search,H. Tanaka; Z. Ibrahim,SIGMOD,2023,Multimodal Learning
+Halcyon: table-and-text question answering,L. Haddad; A. Klein; M. Baptiste,KDD,2018,Multimodal Learning
+Ingot: video question answering with temporal grounding,E. Bianchi; T. Oyelaran,ICCV,2017,Multimodal Learning
+Juniper: multimodal toxicity detection,L. Achterberg; A. Oyelaran,ICCV,2026,Multimodal Learning
+Kelvin: OCR-free document classification,N. Jensen,IJCAI,2025,Multimodal Learning
+Larkspur: visual instruction tuning with curated data,C. Tanaka,SIGMOD,2018,Multimodal Learning
+Mosaic: vision-language alignment with noisy pairs,F. Nakamura; D. Vasquez,OSDI,2026,Multimodal Learning
+Nimbus: multimodal retrieval of product catalogs,B. Quintero,ICML,2021,Multimodal Learning
+Onyx: audio-visual event localization,O. Jensen; D. Chowdhury,NAACL,2015,Multimodal Learning
+Pelican: document understanding with layout priors,R. Nyberg; I. Adeyemi; H. Bauer; U. Quintero,NeurIPS,2020,Multimodal Learning
+Quartz: cross-modal summarization of video,Y. Kowalski; I. Mbeki; J. Okafor,CVPR,2018,Multimodal Learning
+Rookery: image captioning under distribution shift,V. Farkas; T. Jensen,OSDI,2021,Multimodal Learning
+Sable: speech-text joint embedding for search,Q. Okafor,TMLR,2017,Multimodal Learning
+Tamarisk: table-and-text question answering,I. Kaur,SIGMOD,2015,Multimodal Learning
+Umber: video question answering with temporal grounding,G. Volkov; Y. Mbeki; S. Haddad,Interspeech,2023,Multimodal Learning
+Verdant: multimodal toxicity detection,H. Mbeki; Q. Dlamini,ICML,2016,Multimodal Learning
+Morrow: A Morphology-Aware Subword Tokenizer,O. Mensah; F. Bianchi; N. Hill,EMNLP 2025,2025,Multimodal Learning
+Xenon: visual instruction tuning with curated data,K. Mbeki; V. Dubois; B. Nyberg,ICCV,2017,Multimodal Learning
+Yarrow: vision-language alignment with noisy pairs,S. Kowalski,NeurIPS,2016,Multimodal Learning
+Zephyr: multimodal retrieval of product catalogs,S. Kaur; T. Jensen; J. Vasquez; U. Rossi,ECCV,2019,Multimodal Learning
+Anchor: audio-visual event localization,F. Nyberg; J. Baptiste; D. Tanaka,SIGMOD,2021,Multimodal Learning
+Basalt: document understanding with layout priors,M. Mensah,SIGMOD,2023,Multimodal Learning
+Cobalt: cross-modal summarization of video,H. Bauer,VLDB,2016,Multimodal Learning
+Dovetail: image captioning under distribution shift,L. Volkov; J. Weiss,NeurIPS,2017,Multimodal Learning
+Elmwood: speech-text joint embedding for search,O. Park; N. Mbeki; Q. Vasquez,KDD,2023,Multimodal Learning
+Ferrite: table-and-text question answering,M. Holm,OSDI,2017,Multimodal Learning
+Granite: video question answering with temporal grounding,V. Achterberg; P. Farkas,OSDI,2018,Multimodal Learning
+Harrow: multimodal toxicity detection,U. Holm; A. Kaur; N. Ivanova; I. Costa,EuroSys,2025,Multimodal Learning
+Iris: OCR-free document classification,B. Quintero; O. Rossi,FAST,2023,Multimodal Learning
+Jasper: visual instruction tuning with curated data,E. Chowdhury; E. Nyberg; D. Volkov,KDD,2026,Multimodal Learning
+Kelp: vision-language alignment with noisy pairs,N. Achterberg; H. Mbeki; P. Dlamini,ACL,2018,Multimodal Learning
+Lattice: multimodal retrieval of product catalogs,N. Jensen,AAAI,2020,Multimodal Learning
+Marrow: audio-visual event localization,F. Park; N. Oyelaran; T. Tanaka,CVPR,2021,Multimodal Learning
+Nacre: document understanding with layout priors,V. Costa; G. Okafor; N. Mensah,NAACL,2017,Multimodal Learning
+Obsidian: cross-modal summarization of video,A. Mbeki; Z. Kowalski,MLSys,2020,Multimodal Learning
+Pivot: image captioning under distribution shift,L. Oyelaran; C. Nyberg; Y. Larsen,COLT,2025,Multimodal Learning
+Quill: speech-text joint embedding for search,Z. Volkov; O. Moreau; E. Quintero,COLT,2018,Multimodal Learning
+Rivet: table-and-text question answering,N. Costa,EMNLP,2024,Multimodal Learning
+Sextant: video question answering with temporal grounding,I. Petrov; P. Vasquez; V. Silva,Interspeech,2021,Multimodal Learning
+Trellis: multimodal toxicity detection,L. Bianchi; H. Weiss,ICML,2015,Multimodal Learning
+Ursa: OCR-free document classification,D. Holm,SOSP,2023,Multimodal Learning
+Vellum: visual instruction tuning with curated data,U. Oyelaran; T. Larsen,ACL,2022,Multimodal Learning

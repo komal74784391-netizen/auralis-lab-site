@@ -1,0 +1,161 @@
+title,authors,venue,year,theme
+Alkali: speculative decoding on commodity accelerators,T. Nyberg; U. Farkas,NAACL,2020,Efficient Inference
+Brindle: low-rank KV-cache compression,U. Achterberg,VLDB,2018,Efficient Inference
+Calyx: batch scheduling for shared accelerators,K. Ivanova; L. Chowdhury; Z. Larsen,EMNLP,2016,Efficient Inference
+Drift: latency-aware model partitioning,B. Ferrari; I. Sato; P. Haddad,KDD,2022,Efficient Inference
+Ember: sparse attention kernels for long prompts,Y. Larsen; F. Ivanova,NSDI,2021,Efficient Inference
+Fathom: quantization-aware serving pipelines,D. Klein,AAAI,2020,Efficient Inference
+Kestrel: Speculative Decoding under Strict Memory Budgets,T. Oyelaran; N. Hill; R. Adeyemi,MLSys 2025,2025,Efficient Inference
+Halcyon: memory-efficient fine-tuning on edge devices,V. Silva,ICASSP,2025,Efficient Inference
+Ingot: operator fusion for transformer blocks,D. Vasquez; K. Weiss,TMLR,2016,Efficient Inference
+Juniper: throughput modelling of inference clusters,J. Dlamini,ECCV,2024,Efficient Inference
+Kelvin: adaptive precision routing,Y. Oyelaran; T. Moreau,EMNLP,2019,Efficient Inference
+Larkspur: cache-aware autoregressive decoding,J. Novak; G. Novak; P. Novak,VLDB,2023,Efficient Inference
+Mosaic: speculative decoding on commodity accelerators,M. Sato; I. Mensah; K. Rossi,COLT,2022,Efficient Inference
+Nimbus: low-rank KV-cache compression,O. Bauer; F. Baptiste,ACL,2025,Efficient Inference
+Onyx: batch scheduling for shared accelerators,U. Holm; E. Farkas; K. Kowalski; V. Achterberg,NAACL,2017,Efficient Inference
+Pelican: latency-aware model partitioning,S. Klein,AISTATS,2019,Efficient Inference
+Quartz: sparse attention kernels for long prompts,V. Adeyemi; V. Dubois; H. Petrov; E. Adeyemi,FAST,2025,Efficient Inference
+Rookery: quantization-aware serving pipelines,K. Klein; R. Klein; S. Farkas; L. Farkas,NeurIPS,2019,Efficient Inference
+Sable: continuous batching under tail latency,V. Achterberg,USENIX Security,2020,Efficient Inference
+Tamarisk: memory-efficient fine-tuning on edge devices,K. Ferrari; E. Dlamini,Interspeech,2015,Efficient Inference
+Umber: operator fusion for transformer blocks,L. Dubois; Q. Adeyemi,MLSys,2016,Efficient Inference
+Verdant: throughput modelling of inference clusters,D. Okafor; F. Dlamini,KDD,2025,Efficient Inference
+Willow: adaptive precision routing,T. Farkas; L. Volkov,ECCV,2015,Efficient Inference
+Xenon: cache-aware autoregressive decoding,P. Silva; C. Moreau,SIGMOD,2018,Efficient Inference
+Yarrow: speculative decoding on commodity accelerators,L. Weiss,ECCV,2025,Efficient Inference
+Zephyr: low-rank KV-cache compression,R. Costa; U. Kaur; J. Ferrari,COLT,2017,Efficient Inference
+Anchor: batch scheduling for shared accelerators,D. Ferrari,AAAI,2016,Efficient Inference
+Basalt: latency-aware model partitioning,S. Nyberg; Z. Kowalski,OSDI,2022,Efficient Inference
+Cobalt: sparse attention kernels for long prompts,B. Holm; A. Vasquez,COLT,2017,Efficient Inference
+Dovetail: quantization-aware serving pipelines,P. Achterberg; G. Sato; N. Kowalski,SOSP,2025,Efficient Inference
+Elmwood: continuous batching under tail latency,P. Dlamini; L. Novak; D. Quintero,AAAI,2019,Efficient Inference
+Ferrite: memory-efficient fine-tuning on edge devices,N. Weiss,OSDI,2023,Efficient Inference
+Granite: operator fusion for transformer blocks,F. Quintero; R. Achterberg; P. Mbeki,USENIX Security,2026,Efficient Inference
+Harrow: throughput modelling of inference clusters,J. Weiss; I. Ferrari; R. Jensen,EuroSys,2020,Efficient Inference
+Iris: adaptive precision routing,R. Weiss,NAACL,2020,Efficient Inference
+Jasper: cache-aware autoregressive decoding,L. Nakamura,EuroSys,2024,Efficient Inference
+Kelp: speculative decoding on commodity accelerators,N. Haddad; S. Novak,TPAMI,2022,Efficient Inference
+Lattice: low-rank KV-cache compression,F. Silva; S. Dlamini,AAAI,2018,Efficient Inference
+Marrow: batch scheduling for shared accelerators,K. Chowdhury,ECCV,2021,Efficient Inference
+Nacre: latency-aware model partitioning,A. Mensah; D. Ibrahim,CVPR,2023,Efficient Inference
+Hollyhock: Long-Context Attention with Sparse Memory Banks,J. Park; E. Weiss,TMLR 2025,2025,Efficient Inference
+Pivot: quantization-aware serving pipelines,U. Holm; A. Holm; V. Dubois; J. Tanaka,TMLR,2019,Efficient Inference
+Quill: continuous batching under tail latency,C. Ibrahim,Interspeech,2020,Efficient Inference
+Rivet: memory-efficient fine-tuning on edge devices,S. Kaur,FAST,2015,Efficient Inference
+Sextant: operator fusion for transformer blocks,T. Silva,TPAMI,2021,Efficient Inference
+Trellis: throughput modelling of inference clusters,C. Kowalski; O. Kaur; Y. Chowdhury,NAACL,2020,Efficient Inference
+Ursa: adaptive precision routing,Q. Kaur; A. Novak; D. Vasquez,ICML,2022,Efficient Inference
+Vellum: cache-aware autoregressive decoding,Z. Moreau; U. Mbeki; Z. Ivanova,MLSys,2017,Efficient Inference
+Wander: speculative decoding on commodity accelerators,Z. Tanaka; B. Chowdhury; N. Weiss; M. Volkov,NAACL,2016,Efficient Inference
+Xylem: low-rank KV-cache compression,A. Lindqvist; U. Ferrari,TMLR,2022,Efficient Inference
+Yardarm: batch scheduling for shared accelerators,T. Lindqvist,NAACL,2022,Efficient Inference
+Zircon: latency-aware model partitioning,M. Costa,TPAMI,2023,Efficient Inference
+Arbor: sparse attention kernels for long prompts,O. Holm; U. Mensah,IJCAI,2025,Efficient Inference
+Biscuit: quantization-aware serving pipelines,B. Volkov; S. Haddad,MLSys,2025,Efficient Inference
+Cairn: continuous batching under tail latency,K. Dlamini,EuroSys,2024,Efficient Inference
+Dynamo: memory-efficient fine-tuning on edge devices,C. Silva; L. Jensen,EuroSys,2018,Efficient Inference
+Etch: operator fusion for transformer blocks,U. Novak; S. Moreau; C. Haddad,ACL,2022,Efficient Inference
+Fable: throughput modelling of inference clusters,D. Baptiste; J. Adeyemi; F. Okafor,ICLR,2026,Efficient Inference
+Gale: adaptive precision routing,M. Chowdhury,ACL,2022,Efficient Inference
+Hollow: cache-aware autoregressive decoding,M. Ivanova; F. Ivanova; G. Chowdhury; F. Moreau,IJCAI,2016,Efficient Inference
+Ivory: speculative decoding on commodity accelerators,C. Rossi; P. Dlamini; N. Volkov,ECCV,2023,Efficient Inference
+Jade: low-rank KV-cache compression,Q. Achterberg; A. Nyberg; N. Jensen,Interspeech,2025,Efficient Inference
+Kindle: batch scheduling for shared accelerators,L. Farkas; B. Ivanova; M. Okafor,AAAI,2020,Efficient Inference
+Lantern: latency-aware model partitioning,L. Sato; N. Ibrahim; N. Haddad,NSDI,2019,Efficient Inference
+Mesa: sparse attention kernels for long prompts,O. Oyelaran; Q. Costa; D. Dubois; D. Bianchi,ICML,2022,Efficient Inference
+Vespera: Adaptive Batching for Multi-Tenant Inference,B. Larsen; Q. Volkov; N. Hill,NSDI 2026,2026,Efficient Inference
+Oar: continuous batching under tail latency,T. Nakamura; N. Ferrari; E. Kaur; Z. Farkas,KDD,2025,Efficient Inference
+Pumice: memory-efficient fine-tuning on edge devices,C. Nakamura,NAACL,2017,Efficient Inference
+Quiver: operator fusion for transformer blocks,L. Achterberg; C. Bianchi; C. Baptiste,ECCV,2022,Efficient Inference
+Bramble: KV-Cache Compression via Low-Rank Sketches,W. Bauer; Z. Jensen; N. Hill,ICML 2026,2026,Efficient Inference
+Stave: adaptive precision routing,A. Park; Q. Lindqvist,CVPR,2022,Efficient Inference
+Tide: cache-aware autoregressive decoding,A. Kaur; Q. Oyelaran; V. Mensah; J. Jensen,SIGMOD,2017,Efficient Inference
+Alkali: streaming ASR with limited context,K. Mbeki; K. Bianchi; Y. Ibrahim; U. Bianchi,ICLR,2023,Speech & Audio
+Brindle: speaker diarization in noisy meetings,R. Mensah; C. Petrov; A. Ferrari,NSDI,2016,Speech & Audio
+Calyx: self-supervised speech pretraining at scale,L. Oyelaran; N. Klein; B. Tanaka,OSDI,2017,Speech & Audio
+Drift: lightweight keyword spotting on microcontrollers,J. Larsen; C. Dlamini; J. Tanaka,USENIX Security,2023,Speech & Audio
+Ember: speech enhancement with diffusion priors,B. Ferrari,Interspeech,2017,Speech & Audio
+Fathom: multilingual speech translation without alignment,M. Farkas; O. Lindqvist,ICML,2020,Speech & Audio
+Gossamer: prosody-aware text-to-speech,G. Rossi; A. Kowalski,CVPR,2022,Speech & Audio
+Halcyon: audio event detection from weak labels,K. Tanaka; K. Baptiste,IJCAI,2023,Speech & Audio
+Ingot: codec-based representation learning,A. Haddad,FAST,2024,Speech & Audio
+Juniper: accent-robust recognition,K. Silva; F. Sato; M. Larsen; C. Okafor,NAACL,2023,Speech & Audio
+Kelvin: voice conversion with disentangled prosody,P. Larsen; N. Lindqvist,AAAI,2025,Speech & Audio
+Larkspur: long-form audio summarization,Y. Ibrahim; C. Mensah,NeurIPS,2025,Speech & Audio
+Mosaic: streaming ASR with limited context,T. Costa; S. Chowdhury; L. Quintero,IJCAI,2015,Speech & Audio
+Nimbus: speaker diarization in noisy meetings,Y. Kaur; Q. Vasquez,ACL,2022,Speech & Audio
+Onyx: self-supervised speech pretraining at scale,S. Chowdhury; C. Holm; M. Kowalski; A. Kowalski,VLDB,2019,Speech & Audio
+Susurrus: Distilling Whisper-Class Speech Encoders,A. Kaur; L. Holm; N. Hill,ICASSP 2026,2026,Speech & Audio
+Quartz: speech enhancement with diffusion priors,U. Klein; E. Quintero; K. Mbeki; M. Rossi,WWW,2021,Speech & Audio
+Rookery: multilingual speech translation without alignment,O. Petrov; Y. Larsen,ICASSP,2024,Speech & Audio
+Sable: prosody-aware text-to-speech,G. Jensen; Z. Lindqvist,SOSP,2024,Speech & Audio
+Tamarisk: audio event detection from weak labels,N. Mbeki; K. Rossi; I. Mbeki,ICML,2019,Speech & Audio
+Umber: codec-based representation learning,G. Tanaka; Z. Holm,Interspeech,2018,Speech & Audio
+Verdant: accent-robust recognition,V. Farkas,EuroSys,2020,Speech & Audio
+Willow: voice conversion with disentangled prosody,S. Holm; P. Tanaka,SIGMOD,2016,Speech & Audio
+Xenon: long-form audio summarization,I. Nyberg,VLDB,2016,Speech & Audio
+Yarrow: streaming ASR with limited context,G. Silva; I. Nyberg; Q. Weiss,CVPR,2016,Speech & Audio
+Zephyr: speaker diarization in noisy meetings,G. Adeyemi; U. Klein,AAAI,2015,Speech & Audio
+Anchor: self-supervised speech pretraining at scale,Q. Kaur,AAAI,2019,Speech & Audio
+Basalt: lightweight keyword spotting on microcontrollers,S. Achterberg; F. Lindqvist,SIGMOD,2026,Speech & Audio
+Cobalt: speech enhancement with diffusion priors,U. Kowalski; S. Kaur; J. Klein; Q. Mensah,IJCAI,2018,Speech & Audio
+Dovetail: multilingual speech translation without alignment,T. Kowalski; N. Kaur; L. Volkov,NeurIPS,2025,Speech & Audio
+Elmwood: prosody-aware text-to-speech,P. Costa; M. Ibrahim; Y. Lindqvist; Q. Nakamura,SIGMOD,2020,Speech & Audio
+Ferrite: audio event detection from weak labels,E. Bauer; V. Adeyemi,FAST,2020,Speech & Audio
+Granite: codec-based representation learning,Z. Dubois; N. Volkov; D. Okafor,CVPR,2015,Speech & Audio
+Harrow: accent-robust recognition,M. Mbeki; L. Dubois; G. Jensen; M. Mensah,TMLR,2015,Speech & Audio
+Iris: voice conversion with disentangled prosody,N. Ibrahim; L. Chowdhury; F. Silva; Q. Ivanova,SOSP,2016,Speech & Audio
+Jasper: long-form audio summarization,H. Nyberg,NAACL,2020,Speech & Audio
+Kelp: streaming ASR with limited context,F. Kaur; R. Ibrahim; V. Bianchi,SOSP,2026,Speech & Audio
+Lattice: speaker diarization in noisy meetings,K. Dlamini; L. Costa; L. Oyelaran,ICML,2021,Speech & Audio
+Marrow: self-supervised speech pretraining at scale,T. Tanaka; R. Ferrari; V. Kaur,ICCV,2025,Speech & Audio
+Nacre: lightweight keyword spotting on microcontrollers,D. Novak; U. Haddad; S. Holm,EuroSys,2018,Speech & Audio
+Obsidian: speech enhancement with diffusion priors,K. Achterberg; Z. Dubois,IJCAI,2015,Speech & Audio
+Pivot: multilingual speech translation without alignment,C. Costa; O. Park,SIGIR,2018,Speech & Audio
+Quill: prosody-aware text-to-speech,F. Moreau; L. Mbeki; S. Mbeki,OSDI,2024,Speech & Audio
+Rivet: audio event detection from weak labels,U. Achterberg; F. Bianchi,WWW,2020,Speech & Audio
+Sextant: codec-based representation learning,E. Vasquez; V. Quintero,FAST,2018,Speech & Audio
+Trellis: accent-robust recognition,Y. Sato; C. Nakamura; I. Okafor; D. Weiss,COLT,2017,Speech & Audio
+Ursa: voice conversion with disentangled prosody,V. Okafor; H. Mensah; V. Weiss; R. Sato,WWW,2015,Speech & Audio
+Vellum: long-form audio summarization,Q. Holm,Interspeech,2025,Speech & Audio
+Wander: streaming ASR with limited context,Y. Bauer,CVPR,2021,Speech & Audio
+Xylem: speaker diarization in noisy meetings,S. Oyelaran; A. Rossi,NSDI,2022,Speech & Audio
+Yardarm: self-supervised speech pretraining at scale,K. Chowdhury,CVPR,2015,Speech & Audio
+Zircon: lightweight keyword spotting on microcontrollers,Z. Tanaka; O. Jensen,AISTATS,2015,Speech & Audio
+Arbor: speech enhancement with diffusion priors,L. Ferrari,Interspeech,2025,Speech & Audio
+Biscuit: multilingual speech translation without alignment,O. Okafor; Y. Farkas; U. Jensen,NeurIPS,2018,Speech & Audio
+Cairn: prosody-aware text-to-speech,N. Farkas,SIGIR,2015,Speech & Audio
+Dynamo: audio event detection from weak labels,P. Achterberg,IEEE S&P,2025,Speech & Audio
+Etch: codec-based representation learning,Z. Nakamura; Y. Moreau; Z. Kowalski; G. Bianchi,AAAI,2019,Speech & Audio
+Fable: accent-robust recognition,S. Mbeki,WWW,2021,Speech & Audio
+Gale: voice conversion with disentangled prosody,S. Sato; G. Rossi,AISTATS,2020,Speech & Audio
+Hollow: long-form audio summarization,P. Larsen; D. Farkas,EMNLP,2016,Speech & Audio
+Ivory: streaming ASR with limited context,N. Vasquez,ICASSP,2018,Speech & Audio
+Jade: speaker diarization in noisy meetings,Z. Silva; U. Novak; L. Holm,SIGMOD,2019,Speech & Audio
+Kindle: self-supervised speech pretraining at scale,N. Chowdhury,ICCV,2023,Speech & Audio
+Lantern: lightweight keyword spotting on microcontrollers,A. Ibrahim,SOSP,2026,Speech & Audio
+Mesa: speech enhancement with diffusion priors,D. Sato,TPAMI,2018,Speech & Audio
+Nook: multilingual speech translation without alignment,M. Ibrahim; Q. Chowdhury; I. Nyberg,AAAI,2020,Speech & Audio
+Oar: prosody-aware text-to-speech,G. Ferrari; E. Vasquez,USENIX Security,2015,Speech & Audio
+Pumice: audio event detection from weak labels,O. Nyberg; G. Farkas,FAST,2025,Speech & Audio
+Quiver: codec-based representation learning,R. Baptiste,CVPR,2017,Speech & Audio
+Reef: accent-robust recognition,I. Mensah; S. Moreau; H. Nyberg,ICCV,2020,Speech & Audio
+Stave: voice conversion with disentangled prosody,F. Klein; L. Jensen,USENIX Security,2017,Speech & Audio
+Tide: long-form audio summarization,K. Kowalski; R. Mbeki; O. Dlamini,EuroSys,2017,Speech & Audio
+Alkali: late-interaction retrieval for long documents,Z. Ferrari; I. Novak; J. Holm; K. Haddad,NSDI,2026,Retrieval & Ranking
+Brindle: cross-encoder reranking with budgeted attention,N. Dubois; E. Ibrahim; V. Dubois,VLDB,2022,Retrieval & Ranking
+Calyx: query rewriting for ambiguous intents,B. Nyberg,NeurIPS,2026,Retrieval & Ranking
+Drift: dense retrieval under domain shift,D. Larsen; O. Nyberg,SOSP,2015,Retrieval & Ranking
+Ember: multi-vector indexing for heterogeneous corpora,P. Reyes; D. Quintero,CVPR,2025,Retrieval & Ranking
+Fathom: passage compression for retrieval-augmented models,P. Achterberg,KDD,2018,Retrieval & Ranking
+Gossamer: citation-aware ranking of scientific text,H. Petrov,CVPR,2016,Retrieval & Ranking
+Halcyon: recall-oriented retrieval for open QA,V. Baptiste; J. Chowdhury; V. Oyelaran,NSDI,2017,Retrieval & Ranking
+Ingot: entity-centric ranking with knowledge graphs,J. Silva,NAACL,2023,Retrieval & Ranking
+Juniper: hard-negative mining for rerankers,B. Nakamura; S. Sato; Y. Park; M. Park,NSDI,2019,Retrieval & Ranking
+Kelvin: table retrieval from enterprise documents,L. Park; Q. Rossi; V. Silva,USENIX Security,2025,Retrieval & Ranking
+Larkspur: conversational retrieval with session context,A. Farkas; I. Petrov; P. Tanaka; B. Holm,ICLR,2026,Retrieval & Ranking
+Mosaic: late-interaction retrieval for long documents,A. Tanaka,FAST,2020,Retrieval & Ranking
+Nimbus: cross-encoder reranking with budgeted attention,Z. Kaur,ECCV,2020,Retrieval & Ranking
+Onyx: query rewriting for ambiguous intents,I. Costa; T. Achterberg; M. Baptiste; Y. Bianchi,ICASSP,2016,Retrieval & Ranking
+Delphi: Calibrated Uncertainty for Retrieval-Augmented Generation,M. Ivanova; S. Lindqvist; N. Hill,ACL 2025,2025,Retrieval & Ranking

@@ -1,0 +1,38 @@
+# Lab repositories referenced by the public site
+
+- project: kestrel
+  repository: "https://github.com/komal74784391-netizen/auralis-kestrel-specdecode"
+  note: "Kestrel project code"
+- project: delphi
+  repository: "https://github.com/komal74784391-netizen/auralis-delphi-calib"
+  note: "Delphi project code"
+- project: susurrus
+  repository: "https://github.com/komal74784391-netizen/auralis-susurrus-distill"
+  note: "Susurrus project code"
+- project: quillfeather
+  repository: "https://github.com/komal74784391-netizen/auralis-quillfeather-rerank"
+  note: "Main repository for Quillfeather"
+- project: morrow
+  repository: "https://github.com/komal74784391-netizen/auralis-morrow-tokenizer"
+  note: "Morrow tokenizer code"
+- project: tessellate
+  repository: "https://github.com/komal74784391-netizen/auralis-tessellate-graph"
+  note: "Tessellate project repository"
+- project: vespera
+  repository: "https://github.com/komal74784391-netizen/auralis-vespera-serving"
+  note: "Vespera serving stack"
+- project: cinder
+  repository: "https://github.com/komal74784391-netizen/auralis-cinder-audit"
+  note: "Cinder auditing toolkit"
+- project: lumen
+  repository: "https://github.com/komal74784391-netizen/auralis-lumen-filters"
+  note: "Lumen safety filters repository"
+- project: bramble
+  repository: "https://github.com/komal74784391-netizen/auralis-bramble-kv"
+  note: "Bramble KV-cache compression"
+- project: quillfeather-bench
+  repository: "https://github.com/komal74784391-netizen/auralis-quillfeather-bench"
+  note: "Evaluation harness for Quillfeather"
+- project: orchard-legacy
+  repository: "https://github.com/komal74784391-netizen/auralis-orchard-prefetch-legacy"
+  note: "Orchard storage experiments (2022)"

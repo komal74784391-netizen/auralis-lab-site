@@ -1,0 +1,7 @@
+title: Auralis Lab
+description: Publications and artifacts from the Auralis research lab
+baseurl: ""
+markdown: kramdown
+theme: minimal-mistakes
+plugins:
+  - jekyll-feed
