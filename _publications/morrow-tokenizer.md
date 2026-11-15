@@ -7,6 +7,7 @@ authors:
   - "F. Bianchi"
   - "N. Hill"
 citation: "O. Mensah et al. Morrow: A Morphology-Aware Subword Tokenizer. EMNLP 2025, 2025."
+codeurl: "https://github.com/komal74784391-netizen/auralis-morrow-tokenizer"
 ---
 
 # Morrow: A Morphology-Aware Subword Tokenizer

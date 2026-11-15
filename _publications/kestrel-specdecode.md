@@ -7,6 +7,7 @@ authors:
   - "N. Hill"
   - "R. Adeyemi"
 citation: "T. Oyelaran et al. Kestrel: Speculative Decoding under Strict Memory Budgets. MLSys 2025, 2025."
+codeurl: "https://github.com/komal74784391-netizen/auralis-kestrel-specdecode"
 ---
 
 # Kestrel: Speculative Decoding under Strict Memory Budgets
