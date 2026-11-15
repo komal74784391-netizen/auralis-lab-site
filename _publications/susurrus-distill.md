@@ -7,7 +7,7 @@ authors:
   - "L. Holm"
   - "N. Hill"
 citation: "A. Kaur et al. Susurrus: Distilling Whisper-Class Speech Encoders. ICASSP 2026, 2026."
-codeurl: "https://github.com/komal74784391-netizen/auralis-susurrus-distill"
+codeurl: "https://github.com/vex-mirror/susurrus-distill"
 ---
 
 # Susurrus: Distilling Whisper-Class Speech Encoders

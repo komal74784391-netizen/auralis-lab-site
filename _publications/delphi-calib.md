@@ -7,7 +7,6 @@ authors:
   - "S. Lindqvist"
   - "N. Hill"
 citation: "M. Ivanova et al. Delphi: Calibrated Uncertainty for Retrieval-Augmented Generation. ACL 2025, 2025."
-codeurl: "https://github.com/komal74784391-netizen/auralis-delphi-calib"
 ---
 
 # Delphi: Calibrated Uncertainty for Retrieval-Augmented Generation
