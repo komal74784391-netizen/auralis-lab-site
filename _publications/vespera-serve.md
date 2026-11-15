@@ -7,7 +7,6 @@ authors:
   - "Q. Volkov"
   - "N. Hill"
 citation: "B. Larsen et al. Vespera: Adaptive Batching for Multi-Tenant Inference. NSDI 2026, 2026."
-codeurl: "https://github.com/komal74784391-netizen/auralis-vespera-serving"
 ---
 
 # Vespera: Adaptive Batching for Multi-Tenant Inference

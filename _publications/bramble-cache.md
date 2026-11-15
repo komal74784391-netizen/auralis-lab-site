@@ -7,7 +7,6 @@ authors:
   - "Z. Jensen"
   - "N. Hill"
 citation: "W. Bauer et al. Bramble: KV-Cache Compression via Low-Rank Sketches. ICML 2026, 2026."
-codeurl: "https://github.com/komal74784391-netizen/auralis-bramble-kv"
 ---
 
 # Bramble: KV-Cache Compression via Low-Rank Sketches
